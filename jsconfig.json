@@ -1,0 +1,4 @@
+{
+    "baseUrl": ".",
+    "exclude": ["node_modules", "cypress"]
+}
